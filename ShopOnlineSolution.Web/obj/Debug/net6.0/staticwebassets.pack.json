@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\obj\\Debug\\net6.0\\build-gz\\Ny3hD4e7.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShopOnline.Web.styles.css",
+      "PackagePath": "staticwebassets\\ShopOnline.Web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\Radzen.Blazor.js",
+      "PackagePath": "staticwebassets\\Radzen.Blazor.js"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\css\\wcb-base.css",
+      "PackagePath": "staticwebassets\\css\\wcb-base.css"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\css\\wcb.css",
+      "PackagePath": "staticwebassets\\css\\wcb.css"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-BlackIt.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-BlackIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-BoldIt.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-BoldIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-ExtraLightIt.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-ExtraLightIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-It.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-It.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-LightIt.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-LightIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-Semibold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-Semibold.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\SourceSansPro-SemiboldIt.woff",
+      "PackagePath": "staticwebassets\\fonts\\SourceSansPro-SemiboldIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v15-latin-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v15-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v15-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v15-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v15-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v15-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v30-latin-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v30-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v30-latin-500.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v30-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v30-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v30-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\fonts\\roboto-v30-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\roboto-v30-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\E978122\\Desktop\\ShopOnlineSolution\\ShopOnlineSolution.Web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopOnline.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopOnline.Web.props",
+      "PackagePath": "build\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopOnline.Web.props",
+      "PackagePath": "buildMultiTargeting\\ShopOnline.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopOnline.Web.props",
+      "PackagePath": "buildTransitive\\ShopOnline.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
